@@ -1,2 +1,2 @@
 # gitLesson
-study of Git Fundamentals
+Study of Git Fundamentals
