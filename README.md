@@ -4,8 +4,8 @@
 
 ## Comman Linux Commands
 
-  - Create a directory: ** mkdir** name of the directory
+  - Create a directory: **mkdir** name of the directory
   - Change directory: **cd** name of directory
-  - Create a file: **touch** name of file**
+  - Create a file: **touch** name of file
   - List the content of folder: **ls**
   
