@@ -30,6 +30,8 @@
   
 ## Push from your local environment to Github
 
+ - **touch .gitignore** - Ignore any files with the .log extension
+Ignore everything in any directory named temp.
  - **git status** -This helps to check the files on the staging area.
  - **git add index.html** - This adds your files to the staging area.
  - **git commit -m "Your commit description"** - The snapshot your staged content.
@@ -47,6 +49,7 @@
  - **git branch newBranch** - Add new branch called as newBranch
  - **git branch** - List the branches
  - **git checkout newBranch** - Changes current branch to newBranch
+ - **git merge newBranch** - Merges to branches together 
 
 ## Push the new branch to the repo
  
