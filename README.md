@@ -36,7 +36,7 @@
  - **git push origin master** -This command pushes the changes to the repository.
 ## Check your commit history
 
- -** git log** -Helps you to see commit history
+ - **git log** -Helps you to see commit history
 
 ## Checking the changes on the Github
 
@@ -50,4 +50,4 @@
 
 ## Push the new branch to the repo
  
- -** git push origin newBranch** - Pushing new branch to the repo
+ - **git push origin newBranch** - Pushing new branch to the repo
