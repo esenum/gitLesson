@@ -34,3 +34,20 @@
  - **git add index.html** - This adds your files to the staging area.
  - **git commit -m "Your commit description"** - The snapshot your staged content.
  - **git push origin master** -This command pushes the changes to the repository.
+## Check your commit history
+
+ -** git log** -Helps you to see commit history
+
+## Checking the changes on the Github
+
+ - Visit your repo link on Github to check the changes you made
+
+## Creating another branch and merging it with the Master branch
+ 
+ - **git branch newBranch** - Add new branch called as newBranch
+ - **git branch** - List the branches
+ - **git checkout newBranch** - Changes current branch to newBranch
+
+## Push the new branch to the repo
+ 
+ -** git push origin newBranch** - Pushing new branch to the repo
